@@ -2,6 +2,8 @@ class MyClass
 {
     public static void main(String[] args)
      {
-       System.out.println("hello group work");
+	int x ;
+	x = 400000; 
+       System.out.println("the value of x is " + x);
      }
 }
